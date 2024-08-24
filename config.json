@@ -1,5 +1,5 @@
 {
-    "token": "YOUR_TOKEN",
-    "activityType": "PLAYING",
+    "activityType": "0",
     "activity": "your music selections"
 }
+
